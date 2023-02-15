@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967021031651",
+    "project_id": "bloc-74877",
+    "storage_bucket": "bloc-74877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967021031651:android:95a4984fed8be9e25fd5d6",
+        "android_client_info": {
+          "package_name": "com.kartoreat.kartoraeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967021031651-8ch763maod8u6sfivq2vnogs109q3eb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartoreat.kartoraeat",
+            "certificate_hash": "5f0f5767a6d94d8b8550c6e076406dc6f92c6d84"
+          }
+        },
+        {
+          "client_id": "967021031651-c271k817vjia2d70fejbhj255cn10mvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWXsF9zEf-uQ0VRptQRiznJh1mj8edNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967021031651-c271k817vjia2d70fejbhj255cn10mvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
