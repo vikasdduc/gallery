@@ -12,11 +12,11 @@ class LoginView extends HookWidget {
   @override
   Widget build(BuildContext context) {
     final emailController = useTextEditingController(
-      text: 'vikasdduc@gmail.com'.ifDebugging,
+      text: ''.ifDebugging,
     );
 
     final passwordController = useTextEditingController(
-      text: 'Genetics@123'.ifDebugging,
+      text: ''.ifDebugging,
     );
     return Scaffold(
       appBar: AppBar(
